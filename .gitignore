@@ -1,0 +1,18 @@
+# Entorno Virtual
+venv_showz_ab/
+env/
+venv/
+ENV/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db

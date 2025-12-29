@@ -1,0 +1,13 @@
+# Manipulación y Análisis de Datos
+pandas
+numpy
+
+# Visualización de Datos
+matplotlib
+seaborn
+
+# Análisis Estadístico
+scipy
+
+# Entorno de Trabajo (Opcional pero recomendado)
+ipykernel
