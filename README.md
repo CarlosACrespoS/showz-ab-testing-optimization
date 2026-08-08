@@ -1,4 +1,6 @@
-🧪 Showz: Revenue Optimization via Hypothesis Prioritization & A/B Testing
+# 🧪 Showz: Revenue Optimization via Hypothesis Prioritization & A/B Testing
+
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Engineering-150458) ![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Inference-8CAAE6) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0)
 
 A hypothesis-prioritization and A/B-test validation pipeline for Showz, combining the ICE/RICE scoring frameworks with a Mann-Whitney U significance test — including a rigor check the original scope of this analysis skipped: testing whether the experiment's revenue advantage is statistically real, not just its conversion advantage.
